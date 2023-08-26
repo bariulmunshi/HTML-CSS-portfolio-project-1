@@ -9,6 +9,9 @@
 2. Set google fonts and set navbar and primary color
   ```sh
    step-1: create nav & connect style file
-   step-2: 
+   step-2: connect font family and add nav style
   ```
-3. 
+3. Banner content and portfolio image using flex
+  ```sh
+   
+  ```
