@@ -17,3 +17,5 @@
   ```
 4. Simple image background, and about section
 5. Use Flex-box for about info and start what I am section
+6. Technical skills, flex gap and how to apply flex
+
