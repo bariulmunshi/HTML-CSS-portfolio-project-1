@@ -15,3 +15,4 @@
   ```sh
    
   ```
+4. Simple image background, and about section
