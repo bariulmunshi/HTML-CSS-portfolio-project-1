@@ -91,10 +91,44 @@ header {
 /* ======================================
            Main section style
   ======================================= */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
 
 /*About section style*/
 .about {
   padding: 130px;
   background: #fff8f3;
   margin-top: 130px;
+}
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.about-info {
+  text-align: center;
+}
+.info-title {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.info-description {
+  color: #474747;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+/* What I do section */
+#what-i-do-description{
+        padding: 30px 150px;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-around;
 }

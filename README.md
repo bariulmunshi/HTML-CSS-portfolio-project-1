@@ -16,3 +16,4 @@
    
   ```
 4. Simple image background, and about section
+5. Use Flex-box for about info and start what I am section
