@@ -2,6 +2,12 @@
 - HTML & CSS
 # used elements
 - google fonts
+- font-awesome
+```sh
+ step 1:use kit & import it in head-tag
+ <script src="https://kit.fontawesome.com/92ee6042b3.js" crossorigin="anonymous"></script>
+ step 2:use 
+```
 # Helping Tools
 - Figma
 # step by step workflow
